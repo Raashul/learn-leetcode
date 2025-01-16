@@ -1,1 +1,1 @@
-code and learn
+code and learn in js and go
