@@ -1,3 +1,5 @@
+package main
+
 func dailyTemperatures(temperatures []int) []int {
 	res := make([]int, len(temperatures))
 	stack := []int{}
